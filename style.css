@@ -1,0 +1,46 @@
+li{
+    list-style: none;
+    margin-left: 2rem;
+    padding-top: 8px;
+    font-size: 1..3rem;
+}
+nav{
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    /* flex-direction: row-reverse; */
+}
+ul{
+   display: flex;
+   margin-right: 2rem;
+}
+
+img [src="image/lap.jpeg"]{
+    width: 60vw;
+    height: 80vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.skills{
+    display: flex;
+}
+.skilss>div{
+    margin-left:1vw;
+    width: 30vw;
+    text-align: center;
+    margin-top: 1rem;
+}
+.skills>div>p{
+    padding: 1rem;
+}
+.footer{
+    /* height: 80px; */
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer>p{
+    font-size: 25px;
+}
